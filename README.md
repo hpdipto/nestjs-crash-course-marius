@@ -24,7 +24,7 @@
 
 ## Disclaimer
 
-This repository is created as a learning resource from [NestJS Crash Course: Everything you need to know! | NodeJS Tutorial 2021](https://www.youtube.com/watch?v=2n3xS89TJMI&ab_channel=MariusEspejo). I just keep this in my repository so that I can come back here for furture reference.
+This repository is created as a learning resource from [NestJS Crash Course: Everything you need to know! | NodeJS Tutorial 2021](https://www.youtube.com/watch?v=2n3xS89TJMI&ab_channel=MariusEspejo). I just keep this in my repository so that I can come back here for future reference.
 
 ## Description
 
